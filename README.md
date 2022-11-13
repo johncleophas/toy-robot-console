@@ -14,6 +14,8 @@ The thinking here is provide a simple but comprehensive solution that demonstrat
 	Only the status of the robot needs to be known at any given point. Therefore static classes and methods are used extensively
 - Readability
 	The coding constructs and practises are kept simple to make debugging simple and easier to follow
+- Graphical Visual Aid
+	A graphical visual aid has been added to make debugging easier.
 
 ## Dependecies
 
