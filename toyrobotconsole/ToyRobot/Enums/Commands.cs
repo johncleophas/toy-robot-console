@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace ToyRobot.Enums
 {
-    public enum Facing
+    public enum Commands
     {
-        NORTH,
-        SOUTH,
-        WEST,
-        EAST
+        PLACE,
+        MOVE,
+        LEFT,
+        RIGHT,
+        REPORT
     }
 }
